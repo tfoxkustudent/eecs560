@@ -1,0 +1,6 @@
+Tim Fox
+2911208
+EECS 560 Lab 7
+Report PDF
+
+A real world situation that I would include a min max heap is any situation where you need to access minimum elements and maximum elements with comparable efficiency.  One situation that comes to mind is stock trading.  You need to buy low values and sell high values.  Therefore it would be beneficial to implement a datastructure that sorted the values accordingly.
